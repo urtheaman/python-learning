@@ -1,0 +1,3 @@
+Time : [2020-09-29 12:25:44.711274]  Exercise : Cable Crossover
+Time : [2020-09-29 12:25:56.564397]  Exercise : push ups
+Time : [2020-09-29 12:31:50.829320]  Exercise : Dumbell Press
